@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pygame
+pytorch==1.12.1
+torchvision==0.13.1
+transformers==4.19.2
+diffusers
+invisible-watermark
