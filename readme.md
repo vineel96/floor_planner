@@ -12,7 +12,7 @@ Building a floor planner application in python
 ```python text_to_scene.py```
 
 ### Sample Outputs
-1. When chair is near the viewer
+1. When chair is near the viewer:\
    ![alt txt](https://github.com/vineel96/floor_planner/blob/main/output_1.png)
-3. When chair is far away from the viewer
+3. When chair is far away from the viewer:\
    ![alt txt](https://github.com/vineel96/floor_planner/blob/main/output_2.png)
