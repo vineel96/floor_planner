@@ -13,5 +13,6 @@ Building a floor planner application in python
 
 ### Sample Outputs
 1. When chair is near the viewer
-
-2. When chair is far away from the viewer
+   [!alt txt](https://github.com/vineel96/floor_planner/output_1.png)
+3. When chair is far away from the viewer
+   [!alt txt](https://github.com/vineel96/floor_planner/output_2.png)
